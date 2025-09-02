@@ -1,0 +1,14 @@
+flask
+flask-cors
+langchain
+langchain-openai
+langchain-community
+faiss-cpu
+transformers
+torch
+sentence-transformers
+pdf2image
+pytesseract
+pypdf
+python-dotenv
+pdfplumber
