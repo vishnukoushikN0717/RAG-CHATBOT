@@ -1,0 +1,32 @@
+[
+    {
+        "doc_id": "image-doc.pdf",
+        "page_number": 1,
+        "content": "Sample Team\nPrepared By:\nsample-files.com\nImage-Heavy\nPDF\nWebsite:"
+    },
+    {
+        "doc_id": "image-doc.pdf",
+        "page_number": 2,
+        "content": "Nature Landscape\nA beautiful landscape showcasing the wonders of\nnature.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+    },
+    {
+        "doc_id": "image-doc.pdf",
+        "page_number": 3,
+        "content": "City Skyline\nA high-resolution image of a bustling city skyline at\nnight.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+    },
+    {
+        "doc_id": "image-doc.pdf",
+        "page_number": 4,
+        "content": "Wildlife Photography\nAn up-close capture of wildlife in their natural habitat.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+    },
+    {
+        "doc_id": "image-doc.pdf",
+        "page_number": 5,
+        "content": "Space Exploration\nAn artistic representation of space exploration and\ngalaxies.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+    },
+    {
+        "doc_id": "image-doc.pdf",
+        "page_number": 6,
+        "content": "Underwater World\nA breathtaking view of marine life deep beneath the\nocean.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+    }
+]

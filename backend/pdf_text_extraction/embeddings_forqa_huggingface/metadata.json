@@ -1,0 +1,5 @@
+{
+  "model": "sentence-transformers/multi-qa-mpnet-base-dot-v1",
+  "num_chunks": 23,
+  "index_path": "embeddings_forqa_huggingface\\faiss_index"
+}

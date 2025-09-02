@@ -1,0 +1,32 @@
+[
+    {
+        "doc_id": "dev-example.pdf",
+        "page_number": 1,
+        "content": "Sample Team\nPrepared By:\nsample-files.com\nPDF Example\nfor Developers\nWebsite:"
+    },
+    {
+        "doc_id": "dev-example.pdf",
+        "page_number": 2,
+        "content": "This document is designed to showcase\nvarious features available for PDF generation\nand manipulation. It includes formatted text,\ntables, images, hyperlinks, and more.\nPDF Example for Developers\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+    },
+    {
+        "doc_id": "dev-example.pdf",
+        "page_number": 3,
+        "content": "Bold Text, Italicized Text, and Underlined Text\ncan be used to emphasize content.\nPDF Example for Developers\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.\nBullet Points:\nSupport for styled text\nBullet and numbered lists\nCustom fonts and colors\nRich text formatting\nNumbered Lists:\n Support for styled text1.\n Bullet and numbered lists2.\n Custom fonts and colors3.\n Rich text formatting4."
+    },
+    {
+        "doc_id": "dev-example.pdf",
+        "page_number": 4,
+        "content": "Tables and Data Display\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.\nID Name Role Department\n001 John Doe Developer Engineering\n002 Jane Smith Designer Creative\n003 Alice Brown Manager HR\nOfficia veniam nisi quis irure dolore elit tempor\nea aliquip culpa quis ullamco veniam. Minim\ndolore deserunt aliquip laborum culpa mollit\nanim cillum nostrud laborum veniam non\nvoluptate.\nReprehenderit sit pariatur reprehenderit non\nsint aliqua est reprehenderit. Incididunt\ncommodo enim magna magna ipsum voluptate\naute voluptate."
+    },
+    {
+        "doc_id": "dev-example.pdf",
+        "page_number": 5,
+        "content": "Images and Hyperlinks\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.\nBelow is an example image inserted into the\nPDF:\nVisit Sample-Files.com for more sample documents."
+    },
+    {
+        "doc_id": "dev-example.pdf",
+        "page_number": 6,
+        "content": "Forms and Annotations\nOverview\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource.\nForms allow users to input information directly into a PDF\ndocument. Annotations can be used to highlight,\ncomment, or mark up specific sections of the document.\nForm Elements:\nText Fields\nRadio Buttons\nYes No\nCheckboxes"
+    }
+]

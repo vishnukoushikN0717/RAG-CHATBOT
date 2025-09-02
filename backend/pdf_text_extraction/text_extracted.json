@@ -1,0 +1,37 @@
+[
+    {
+        "doc_id": "image-doc.pdf",
+        "page_number": 1,
+        "content": "Sample Team\nPrepared By:\nsample-files.com\nImage-Heavy\nPDF\nWebsite:"
+    },
+    {
+        "doc_id": "image-doc.pdf",
+        "page_number": 2,
+        "content": "Nature Landscape\nA beautiful landscape showcasing the wonders of\nnature.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+    },
+    {
+        "doc_id": "image-doc.pdf",
+        "page_number": 3,
+        "content": "City Skyline\nA high-resolution image of a bustling city skyline at\nnight.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+    },
+    {
+        "doc_id": "image-doc.pdf",
+        "page_number": 4,
+        "content": "Wildlife Photography\nAn up-close capture of wildlife in their natural habitat.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+    },
+    {
+        "doc_id": "image-doc.pdf",
+        "page_number": 5,
+        "content": "Space Exploration\nAn artistic representation of space exploration and\ngalaxies.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+    },
+    {
+        "doc_id": "image-doc.pdf",
+        "page_number": 6,
+        "content": "Underwater World\nA breathtaking view of marine life deep beneath the\nocean.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resource."
+    },
+    {
+        "doc_id": "pdf1.pdf",
+        "page_number": 1,
+        "content": "Sample Document for PDF Testing\nIntroduction\nThis is a simple document created to test basic PDF functionality. It includes various text formatting\noptions to ensure proper rendering in PDF readers.\nText Formatting Examples\n1. Bold text is used for emphasis.\n2. Italic text can be used for titles or subtle emphasis.\n3. Strikethrough is used to show deleted text.\nLists\nHere's an example of an unordered list:\nItem 1\nItem 2\nItem 3\nAnd here's an ordered list:\n1. First item\n2. Second item\n3. Third item\nQuote\nThis is an example of a block quote. It can be used to highlight important information or\ncitations.\nTable\nHeader 1 Header 2 Header 3\nRow 1, Col 1 Row 1, Col 2 Row 1, Col 3\nRow 2, Col 1 Row 2, Col 2 Row 2, Col 3\nThis document demonstrates various formatting options that should translate well to PDF format.\nThis sample PDF file is provided by Sample-Files.com. Visit us for more sample files and resources."
+    }
+]
