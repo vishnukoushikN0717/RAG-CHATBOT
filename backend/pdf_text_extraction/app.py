@@ -42,7 +42,7 @@ def chatbot_response(query: str):
     return None  # Not small talk
 
 # --- RAG setup ---
-embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/multi-qa-mpnet-base-dot-v1")
+embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
 vectorstore = FAISS.load_local(
     "embeddings_forqa_huggingface/faiss_index",
