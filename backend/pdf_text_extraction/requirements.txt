@@ -13,3 +13,4 @@ pypdf
 python-dotenv
 pdfplumber
 pillow
+fastapi
