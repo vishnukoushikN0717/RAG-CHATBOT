@@ -52,7 +52,7 @@ vectorstore = FAISS.load_local(
 
 llm = pipeline(
     "text2text-generation",
-    model="google/flan-t5-small",
+    model="google/flan-t5-nano",
     device=-1  # CPU, change to 0 if GPU available
 )
 
