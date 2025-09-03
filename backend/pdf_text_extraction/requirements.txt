@@ -14,3 +14,4 @@ python-dotenv
 pdfplumber
 pillow
 fastapi
+uvicorn
